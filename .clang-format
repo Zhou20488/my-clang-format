@@ -1,0 +1,14 @@
+# @format
+
+BasedOnStyle: Microsoft
+AccessModifierOffset: -4
+AlignConsecutiveMacros: true
+AlignTrailingComments: true
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortIfStatementsOnASingleLine: false
+BreakBeforeBraces: Allman
+ColumnLimit: 0
+SortIncludes: Never
+SeparateDefinitionBlocks: Always
+AllowShortLambdasOnASingleLine: Empty
+LambdaBodyIndentation: OuterScope
