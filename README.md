@@ -1,2 +1,2 @@
 # my-clang-format
-A .clang-format that I like
+A .clang-format I like
