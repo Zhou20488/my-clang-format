@@ -5,7 +5,7 @@ AccessModifierOffset: -4
 AlignConsecutiveMacros: true
 AlignTrailingComments: true
 AllowShortFunctionsOnASingleLine: Inline
-AllowShortIfStatementsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: true
 BreakBeforeBraces: Allman
 ColumnLimit: 0
 SortIncludes: Never
