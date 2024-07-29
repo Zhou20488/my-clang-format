@@ -10,5 +10,5 @@ BreakBeforeBraces: Allman
 ColumnLimit: 0
 SortIncludes: Never
 SeparateDefinitionBlocks: Always
-AllowShortLambdasOnASingleLine: Empty
+AllowShortLambdasOnASingleLine: Always
 LambdaBodyIndentation: OuterScope
