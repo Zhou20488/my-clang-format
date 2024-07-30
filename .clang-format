@@ -4,11 +4,12 @@ BasedOnStyle: Microsoft
 AccessModifierOffset: -4
 AlignConsecutiveMacros: true
 AlignTrailingComments: true
-AllowShortFunctionsOnASingleLine: Inline
+AllowShortFunctionsOnASingleLine: All
+AllowShortEnumsOnASingleLine: true
 AllowShortIfStatementsOnASingleLine: true
 BreakBeforeBraces: Allman
 ColumnLimit: 0
 SortIncludes: Never
 SeparateDefinitionBlocks: Always
-AllowShortLambdasOnASingleLine: Always
+AllowShortLambdasOnASingleLine: All
 LambdaBodyIndentation: OuterScope
